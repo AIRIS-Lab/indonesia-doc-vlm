@@ -119,6 +119,11 @@ The models can extract various fields from Indonesian documents, including but n
 
 Contributions are welcome! If you'd like to improve the models or add support for additional document types, please feel free to submit a pull request.
 
+I'm looking for partners to implement this in government, banking, healthcare, and enterprise settings. Who's ready to transform document processing in Indonesia? Let's talk.
+
+## 🔥 MAJOR ANNOUNCEMENT 🔥
+Mark your calendars - End of March 2025, I'm dropping something even bigger. My team and I are building a comprehensive API and enterprise solution that will completely redefine document workflow automation. I don't follow the market - I create it. This isn't just another update; it's the future of document processing that others will try to replicate for years.
+
 ## 📜 License
 
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
