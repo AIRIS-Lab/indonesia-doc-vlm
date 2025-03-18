@@ -22,9 +22,7 @@ The following models are available in this collection:
 | Model | Size | Description |
 |-------|------|-------------|
 | [danielsyahputra/Qwen2-VL-2B-DocIndo](https://huggingface.co/danielsyahputra/Qwen2-VL-2B-DocIndo) | 2B | Base model for document understanding |
-| [danielsyahputra/Qwen2-VL-2B-DocIndo-merged-16bit](https://huggingface.co/danielsyahputra/Qwen2-VL-2B-DocIndo-merged-16bit) | 2B | 16-bit quantized version for faster inference |
 | [danielsyahputra/Qwen2.5-VL-3B-DocIndo](https://huggingface.co/danielsyahputra/Qwen2.5-VL-3B-DocIndo) | 3B | Larger model with improved accuracy |
-| [danielsyahputra/Qwen2.5-VL-3B-DocIndo-merged-16bit](https://huggingface.co/danielsyahputra/Qwen2.5-VL-3B-DocIndo-merged-16bit) | 3B | 16-bit quantized version of the 3B model |
 | [danielsyahputra/SmolVLM-500M-DocIndo](https://huggingface.co/danielsyahputra/SmolVLM-500M-DocIndo) | 500M | Lightweight model for resource-constrained environments |
 | [danielsyahputra/SmolVLM-500M-DocIndo-merged-16bit](https://huggingface.co/danielsyahputra/SmolVLM-500M-DocIndo-merged-16bit) | 500M | 16-bit quantized version of the SmolVLM model |
 
