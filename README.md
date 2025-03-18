@@ -2,6 +2,9 @@
 
 A collection of Vision-Language Models specialized for Indonesian document (KTP, KK, SIM, NPWP, etc.) data extraction.
 
+[Screencast from 18-03-25 12:16:53.webm](https://github.com/user-attachments/assets/5830b26c-bbc1-425c-a767-1b96f2fe93f8)
+
+
 ## 🌟 Overview
 
 Indonesia-Doc-VLM is an open-source project that provides specialized Vision-Language Models (VLMs) for extracting information from Indonesian documents. These models are fine-tuned to understand and extract data from various Indonesian identity and legal documents such as:
