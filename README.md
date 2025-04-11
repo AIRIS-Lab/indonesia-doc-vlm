@@ -32,7 +32,7 @@ The following models are available in this collection:
 
 ```bash
 pip install bitsandbytes==0.45.3 \
-unsloth @ git+https://github.com/unslothai/unsloth.git@6f7c8c6d0a63caaa129cc0bc6b845d5d8b9c81e8 \
+unsloth@git+https://github.com/unslothai/unsloth.git@6f7c8c6d0a63caaa129cc0bc6b845d5d8b9c81e8 \
 unsloth_zoo==2025.3.12 \
 deepspeed==0.16.4 \
 python-dotenv
